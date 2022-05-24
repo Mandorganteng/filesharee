@@ -7,7 +7,7 @@ https://github.com/Dax083/filesharee
 )
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@InfoBotShr](https://www.telegram.dog/vvslh_pro)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@vvslh_pro](https://www.telegram.dog/vvslh_pro)**
 
 ### Features
 - Dapat Custom Full
@@ -24,7 +24,7 @@ https://github.com/Dax083/filesharee
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/restuap17/FileSharing-Restu)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dax083/filesharee)</br>
 
 #### Deploy in your VPS
 ````bash
