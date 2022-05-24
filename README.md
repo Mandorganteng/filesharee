@@ -86,7 +86,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/InfoBotShr) Untuk Dukungan/Bantuan dan untuk info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/vvslh_pro) Untuk Dukungan/Bantuan dan untuk info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.
 ### Credits
