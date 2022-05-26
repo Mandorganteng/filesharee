@@ -24,7 +24,7 @@ https://github.com/Dax083/filesharee
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dax083/filesharee)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mandorganteng/filesharee)</br>
 
 #### Deploy in your VPS
 ````bash
